@@ -25,7 +25,7 @@ CUDANN http://docs.nvidia.com/deeplearning/sdk/index.html
 Quick guide on setup:
 
 	The code provided here was developed and run on Windows 8/10. In order to run this code yourself you will need 
-	a distribution of Python 2.7. You will also need to install the numpy, scipy, and scikit-lean packages. The deep
+	a distribution of Python 2.7. You will also need to install the numpy, scipy, and scikit-learn packages. The deep
 	learning code framework is written using the Keras package, which requires either Theano or Tensorflow as a backend
 	to do tensor operations. Currently, if you are developing on Windows, Theano is a much more straightforward option.
 	If you are developing on MacOS or Linux, either backend will work. If you would like to run this code with GPU
